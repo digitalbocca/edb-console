@@ -1,0 +1,24 @@
+{
+  "name": "edb-console",
+  "version": "0.1.0",
+  "description": "Habilita e desabilita mensagens do console. Ferramenta de desenvolvimento EDB.",
+  "main": "src/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitalbocca/edb-console.git"
+  },
+  "keywords": [
+    "console",
+    "log",
+    "onoff"
+  ],
+  "author": "Gabriel Bertola Bocca - gabriel@estudiodigitalbocca.com.br",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/digitalbocca/edb-console/issues"
+  },
+  "homepage": "https://github.com/digitalbocca/edb-console#readme"
+}
