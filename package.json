@@ -1,6 +1,6 @@
 {
   "name": "edb-console",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Habilita e desabilita mensagens do console. Ferramenta de desenvolvimento EDB.",
   "main": "src/",
   "scripts": {

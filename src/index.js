@@ -12,6 +12,7 @@ const edbConsole = {
   },
   trocar () {
     this.edbConsoleActive = !this.edbConsoleActive
+    console.log(`EDB Console - Active: ${this.edbConsoleActive}`)
   }
 }
 

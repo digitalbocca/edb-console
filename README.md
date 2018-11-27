@@ -2,11 +2,15 @@
 
 ## edb-console
 
-### v0.1.0
+### v0.2.0
 
 > Habilita e desabilita mensagens no console. Ferramenta de desenvolvimento EDB.
 
 ## CHANGELOG
+
+### Mudanças na v0.2.0
+
+- Mostra mudança de estado.
 
 ### Mudanças na v0.1.0
 
