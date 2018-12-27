@@ -1,6 +1,6 @@
 {
   "name": "edb-console",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Habilita e desabilita mensagens do console. Ferramenta de desenvolvimento EDB.",
   "main": "src/",
   "scripts": {
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/digitalbocca/edb-console/issues"
   },
-  "homepage": "https://github.com/digitalbocca/edb-console#readme"
+  "homepage": "https://github.com/digitalbocca/edb-console#readme",
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
 }
