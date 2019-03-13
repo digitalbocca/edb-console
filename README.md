@@ -2,13 +2,15 @@
 
 ## edb-console
 
-### v0.3.0
+### v0.4.0
 
 > Habilita e desabilita mensagens no console. Ferramenta de desenvolvimento EDB.
 
 ## ATENÇÃO
 
 - Esta implementação suporta apenas browers. O suporte a Node será implementado em versões futuras.
+
+- Temos planos para implementar a gravação da configuração em algum banco de dados local do browser.
 
 ## INSTALAÇÃO
 
@@ -52,6 +54,13 @@ window.edbConsole.trocar()
 
 ## CHANGELOG
 
+### Mudanças na v0.4.0
+
+- Adicionado comando .warn()
+- Adicionado comando .info()
+- Adicionado comando .error()
+- Melhoria na documentação.
+
 ### Mudanças na v0.3.0
 
 - Melhoria na documentação.
@@ -65,4 +74,4 @@ window.edbConsole.trocar()
 - Recebido o código legado.
 - Iniciado o Controle de Versão.
 
-> (c)2018 - Estúdio Digital Bocca
+> (c)2018-2019 Estúdio Digital Bocca
