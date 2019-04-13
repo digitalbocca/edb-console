@@ -2,7 +2,7 @@
 
 ## edb-console
 
-### v0.4.0
+### v0.5.0
 
 > Habilita e desabilita mensagens no console. Ferramenta de desenvolvimento EDB.
 
@@ -54,24 +54,6 @@ window.edbConsole.trocar()
 
 ## CHANGELOG
 
-### Mudanças na v0.4.0
-
-- Adicionado comando .warn()
-- Adicionado comando .info()
-- Adicionado comando .error()
-- Melhoria na documentação.
-
-### Mudanças na v0.3.0
-
-- Melhoria na documentação.
-
-### Mudanças na v0.2.0
-
-- Mostra mudança de estado.
-
-### Mudanças na v0.1.0
-
-- Recebido o código legado.
-- Iniciado o Controle de Versão.
+Veja no arquivo [CHANGELOG](CHANGELOG.md)
 
 > (c)2018-2019 Estúdio Digital Bocca
