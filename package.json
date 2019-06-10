@@ -1,10 +1,10 @@
 {
   "name": "edb-console",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "Habilita e desabilita mensagens do console. Ferramenta de desenvolvimento EDB.",
   "main": "src/",
   "config": {
-    "commitMessage": "Automatizado o controle de versão"
+    "commitMessage": "Atualização de dependências"
   },
   "scripts": {
     "git": "npm run gst && npm run gad && npm run gco && npm run gta && npm run gpu",
