@@ -2,11 +2,15 @@
 
 ## edb-console
 
-### v0.6.0
+### v0.8.0
 
 ---
 
 ## LOG DE MUDANÇAS
+
+### Mudanças na v0.8.0
+
+- Atualização de dependências.
 
 ### Mudanças na v0.7.0
 

@@ -2,7 +2,7 @@
 
 ## edb-console
 
-### v0.7.0
+### v0.8.0
 
 > Habilita e desabilita mensagens no console. Ferramenta de desenvolvimento EDB.
 
@@ -50,6 +50,15 @@ window.edbConsole = edbConsole
 
 ```bash
 window.edbConsole.trocar()
+```
+
+- Opções de saída:
+
+```javascript
+edbConsole.log(String) // Uma mensagem de log comum.
+edbConsole.info(String) // Uma mensagem com formatação informativa.
+edbConsole.warn(String) // Uma mensagem com formatação de alerta.
+edbConsole.error(String) // Uma mensagem com formatação de erro.
 ```
 
 ## CHANGELOG
