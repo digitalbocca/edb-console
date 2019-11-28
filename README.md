@@ -2,7 +2,7 @@
 
 ## edb-console
 
-### v0.8.0
+### v0.9.0
 
 > Habilita e desabilita mensagens no console. Ferramenta de desenvolvimento EDB.
 
