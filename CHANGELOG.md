@@ -2,11 +2,15 @@
 
 ## edb-console
 
-### v0.9.0
+### v0.10.0
 
 ---
 
 ## LOG DE MUDANÇAS
+
+### Mudanças na v0.10.0
+
+- Atualização de dependências.
 
 ### Mudanças na v0.9.0
 
@@ -50,4 +54,4 @@
 - Recebido o código legado.
 - Iniciado o Controle de Versão.
 
-> (c)2019 - Estúdio Digital Bocca
+> (c)2019-2020 Estúdio Digital Bocca

@@ -2,7 +2,7 @@
 
 ## edb-console
 
-### v0.9.0
+### v0.10.0
 
 > Habilita e desabilita mensagens no console. Ferramenta de desenvolvimento EDB.
 
@@ -65,4 +65,4 @@ edbConsole.error(String) // Uma mensagem com formatação de erro.
 
 Veja no arquivo [CHANGELOG](CHANGELOG.md)
 
-> (c)2018-2019 Estúdio Digital Bocca
+> (c)2018-2020 Estúdio Digital Bocca
