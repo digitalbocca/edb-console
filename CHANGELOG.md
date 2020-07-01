@@ -1,12 +1,28 @@
-# Estúdio Digital Bocca
-
-## edb-console
-
-### v0.10.0
+<p align="center">
+  <img src="https://estudiodigitalbocca.com.br/edb-logo.svg" width="200px">
+  <p align="center">Ultima Atualização na v0.11.0</p>
+  <h1 align="center">edb-console</h1>
+  <h4 align="center">
+    Habilita e desabilita mensagens no console. Ferramenta de desenvolvimento EDB.
+  </h4>
+  <p align="center">
+    <img src="https://badgen.net/badge/version/v0.11.0/orange">
+  </p>
+  <p align="center">(c)2020 - Estúdio Digital Bocca</p>
+</p>
 
 ---
 
-## LOG DE MUDANÇAS
+# EDB Console - CHANGELOG
+
+---
+
+## REGISTRO DE ALTERAÇÕES
+
+### Mudanças na v0.11.0
+
+- Arquivos markdown seguem o padrão EDB2020.
+- Atualização de dependências.
 
 ### Mudanças na v0.10.0
 
