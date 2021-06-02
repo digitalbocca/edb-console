@@ -1,14 +1,14 @@
 <p align="center">
   <img src="https://estudiodigitalbocca.com.br/edb-logo.svg" width="200px">
-  <p align="center">Ultima Atualização na v0.12.0</p>
+  <p align="center">Ultima Atualização na v0.13.0</p>
   <h1 align="center">edb-console</h1>
   <h4 align="center">
     Habilita e desabilita mensagens no console. Ferramenta de desenvolvimento EDB.
   </h4>
   <p align="center">
-    <img src="https://badgen.net/badge/version/v0.12.0/orange">
+    <img src="https://badgen.net/badge/version/v0.13.0/orange">
   </p>
-  <p align="center">(c)2020 - Estúdio Digital Bocca</p>
+  <p align="center">(c)2018-2020 Estúdio Digital Bocca</p>
 </p>
 
 ---
@@ -18,6 +18,10 @@
 ---
 
 ## REGISTRO DE ALTERAÇÕES
+
+### Mudanças na v0.13.0
+
+- Atualização de dependências.
 
 ### Mudanças na v0.12.0
 
@@ -73,4 +77,4 @@
 - Recebido o código legado.
 - Iniciado o Controle de Versão.
 
-> (c)2019-2020 Estúdio Digital Bocca
+> (c)2018-2020 Estúdio Digital Bocca
